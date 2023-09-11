@@ -1,0 +1,1 @@
+I want to learn some Java so I just did some basic stuff, and put it here.
